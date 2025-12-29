@@ -1,6 +1,9 @@
 # 👋 Hola, soy Deelan
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pate9596&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pate9596&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+
+
 
 🎓 Egresado de Ingeniería en Informática, Santiago de Chile.  
 💻 Desarrollador Web Full Stack Junior con experiencia en .NET, React, Django y bases de datos.  
@@ -59,27 +62,40 @@ Puedes ver más proyectos en mi GitHub 👇
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
-### Frontend
-- HTML5, CSS3, JavaScript, TypeScript  
-- React, Angular  
-- Diseño responsive  
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-### Backend
-- .NET (C#), Django  
-- APIs REST, JWT, OAuth  
+---
 
-### Bases de Datos
-- MySQL, MongoDB, Oracle, SQLite  
-- Modelado y consultas SQL  
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
-### Herramientas y Prácticas
-- Git / GitHub / GitLab  
-- Docker  
-- Postman  
-- Selenium (QA y testing)  
-- Metodologías ágiles (Scrum / Kanban)  
+---
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
+
+### 📊 BI / Dashboards
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+### 🧰 Tooling / DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-181717?logo=github&logoColor=white)
+
 
 ---
 
@@ -95,5 +111,5 @@ Puedes ver más proyectos en mi GitHub 👇
 🔗 LinkedIn: https://linkedin.com/in/deelan-maldonado-vergara-812734235  
 🌍 Portafolio: https://mision-mu.vercel.app  
 🐙 GitHub: https://github.com/pate9596  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pate9596&layout=compact&theme=tokyonight)
+
 
