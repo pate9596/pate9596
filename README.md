@@ -1,103 +1,99 @@
 # 👋 Hola, soy Deelan
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pate96596&show_icons=true)
- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pate9596&show_icons=true&theme=tokyonight)
 
-🎓 Computer Engineering graduate from Santiago, Chile.  
-💻 Junior Full Stack Web Developer with experience in .NET, React, Django and databases.  
-🏢 Former Intern at Televisión Nacional de Chile (TVN), working on data integration, dashboards and software quality.  
+🎓 Egresado de Ingeniería en Informática, Santiago de Chile.  
+💻 Desarrollador Web Full Stack Junior con experiencia en .NET, React, Django y bases de datos.  
+🏢 Ex practicante en Televisión Nacional de Chile (TVN), participando en integración de datos, dashboards y aseguramiento de calidad de software.
 
-I’m focused on building clear, maintainable and user-oriented web applications, combining backend logic, frontend interfaces and data analysis.
-
----
-
-🎯 Goals & Focus Areas  
-
-🧠 Full Stack Web Development  
-I enjoy working across the full stack, from backend APIs to frontend interfaces.  
-Current focus areas include:
-
-- Backend development with .NET (C#) and REST APIs  
-- Frontend development with React + Vite  
-- Authentication and authorization (JWT, OAuth)  
-- Relational and NoSQL databases  
-
-📊 Data & Quality-Oriented Systems  
-Through my experience at TVN, I’ve worked with:
-
-- ETL processes using Python and SQL  
-- Data quality validation and traceability  
-- Dashboards and KPIs using Looker Studio  
-
-This reinforced my interest in building reliable systems where data accuracy matters.
+Me enfoco en construir aplicaciones web claras, mantenibles y orientadas al usuario, combinando lógica backend, interfaces frontend y análisis de datos.
 
 ---
 
-🚀 Featured Projects  
+## 🎯 Objetivos y Áreas de Enfoque
 
-📝 Gestión de Notas — Full Stack  
-A personal notes management system with secure authentication.
+### 🧠 Desarrollo Web Full Stack  
+Disfruto trabajar en todo el stack, desde APIs backend hasta interfaces frontend.  
+Actualmente me enfoco en:
 
-- Backend: .NET 9 (C#), REST API, JWT  
+- Desarrollo backend con .NET (C#) y APIs REST  
+- Desarrollo frontend con React + Vite  
+- Autenticación y autorización (JWT, OAuth)  
+- Bases de datos relacionales y NoSQL  
+
+### 📊 Sistemas orientados a datos y calidad  
+Durante mi experiencia en TVN trabajé con:
+
+- Procesos ETL utilizando Python y SQL  
+- Validación y trazabilidad de datos  
+- Dashboards y KPIs en Looker Studio  
+
+Esta experiencia reforzó mi interés por construir sistemas confiables, donde la calidad y precisión de los datos es fundamental.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📝 Gestión de Notas — Full Stack  
+Sistema de gestión de notas personales con autenticación segura.
+
+- Backend: .NET 9 (C#), API REST, JWT  
 - Frontend: React + Vite + TypeScript  
-- Database: MongoDB  
-- Features: Google OAuth, CRUD per user, responsive UI  
+- Base de datos: MongoDB  
+- Funcionalidades: Google OAuth, CRUD por usuario, interfaz responsive  
 
-🔧 Ferremas eCommerce  
-Academic eCommerce platform for a hardware store.
+### 🔧 Ferremas eCommerce  
+Plataforma académica de comercio electrónico para una ferretería.
 
 - Backend: Django (Python)  
 - Frontend: HTML, CSS, JavaScript  
-- Integrations: WebPay payment gateway, currency API  
-- Features: user authentication, password recovery via email  
+- Integraciones: pasarela de pagos WebPay, API de conversión de moneda  
+- Funcionalidades: autenticación de usuarios, recuperación de contraseña por correo  
 
-📱 Other Projects  
-- Personal Portfolio (Angular + Vercel)  
-- Rendiflow Mobile App (React Native + Expo)  
-- Chuck Norris App (Flutter + Public API)  
+### 📱 Otros Proyectos
+- Portafolio personal (Angular + Vercel)  
+- App móvil Rendiflow (React Native + Expo)  
+- Chuck Norris App (Flutter + API pública)  
 
-More projects on my GitHub 👇
+Puedes ver más proyectos en mi GitHub 👇
 
 ---
 
-🛠️ Tech Stack  
+## 🛠️ Tecnologías
 
-Frontend  
+### Frontend
 - HTML5, CSS3, JavaScript, TypeScript  
 - React, Angular  
-- Responsive UI  
+- Diseño responsive  
 
-Backend  
+### Backend
 - .NET (C#), Django  
-- REST APIs, JWT, OAuth  
+- APIs REST, JWT, OAuth  
 
-Databases  
+### Bases de Datos
 - MySQL, MongoDB, Oracle, SQLite  
-- SQL modeling and queries  
+- Modelado y consultas SQL  
 
-Tools & Practices  
+### Herramientas y Prácticas
 - Git / GitHub / GitLab  
 - Docker  
 - Postman  
-- Selenium (QA & testing)  
-- Agile methodologies (Scrum / Kanban)  
+- Selenium (QA y testing)  
+- Metodologías ágiles (Scrum / Kanban)  
 
 ---
 
-🌐 Languages  
-
-- Spanish: Native  
-- English: Basic  
+## 🌐 Idiomas
+- Español: Nativo  
+- Inglés: Básico  
 
 ---
 
-📫 Contact  
+## 📫 Contacto
 
 📧 Email: deelanmaldonado9@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/deelan-maldonado-vergara-812734235  
-🌍 Portfolio: https://mision-mu.vercel.app  
+🌍 Portafolio: https://mision-mu.vercel.app  
 🐙 GitHub: https://github.com/pate9596  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pate9596&layout=compact&theme=tokyonight)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pate96596&layout=compact&theme=tokyonight)
