@@ -7,7 +7,7 @@
 
 🎓 Egresado de Ingeniería en Informática, Santiago de Chile.  
 💻 Desarrollador Web Full Stack Junior con experiencia en .NET, React, Django y bases de datos.  
-🏢 Ex practicante en Televisión Nacional de Chile (TVN), participando en integración de datos, dashboards y aseguramiento de calidad de software.
+
 
 Me enfoco en construir aplicaciones web claras, mantenibles y orientadas al usuario, combinando lógica backend, interfaces frontend y análisis de datos.
 
